@@ -44,7 +44,7 @@ Veja nosso site adaptável em 🚩[Culturama](https://culturama-xi.vercel.app/) 
 [Luan Alves](https://www.linkedin.com/in/luanalvesdev/)
 <br>
 <br>
-#### 🚀Thank you for visiting my Git. If you give me a [`Follow`](https://github.com/Rodolfo-Sampaio), I'll be happy to return the favor!  😎👩‍💻
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=100&section=footer" alt="Waving Capsule Render">
 
