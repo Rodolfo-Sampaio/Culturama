@@ -44,7 +44,7 @@ Veja nosso site adaptável em 🚩[Culturama](https://culturama-xi.vercel.app/) 
 [Luan Alves](https://www.linkedin.com/in/luanalvesdev/)
 <br>
 <br>
-### "Oi, artista do código! 🎭 Bem-vindo ao 'Palco Code' inspirado pelo mundo da atuação. Cada linha de código é uma cena em nossa própria peça digital. Se você se conectou com essa performance, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos essa dramaturgia única! 🌟💻 #CodeActors"
+#### 🚀Thank you for visiting my Git. If you give me a [`Follow`](https://github.com/Rodolfo-Sampaio), I'll be happy to return the favor!  😎👩‍💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=100&section=footer" alt="Waving Capsule Render">
 
